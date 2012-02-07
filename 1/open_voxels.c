@@ -8,7 +8,8 @@
 #include<GL/glu.h>
 #include<GL/freeglut.h>
 #include<math.h>
-#include "graph.h"
+#include "libcube.h"
+#include "libvoxel.h"
 
 voxels AbstractVoxels, VoxelSphere;
 int AbstractDepth=1, SphereDepth=1;

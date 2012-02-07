@@ -8,7 +8,8 @@
 #include<GL/glu.h>
 #include<GL/freeglut.h>
 #include<math.h>
-#include "graph.h"
+#include "libcube.h"
+#include "liboctree.h"
 
 float _anglex, _angley, _eyex=0.0, _eyez=2.0;
 octree octsphere, octabs;
