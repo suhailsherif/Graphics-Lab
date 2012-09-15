@@ -1,1 +1,2 @@
 1. Voxels and Octrees for different depths of recursion in a sphere and Sierpinski Tetrahedron.
+3. Render a scene without using OpenGL functions, writing pixel values t an array instead and passing it to glDrawPixels.
